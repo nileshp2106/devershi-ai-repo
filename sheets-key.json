@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-parser-479516-b1",
+  "private_key_id": "10bcfa64718aef4b1b4e66a6734deac0318cbd5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7ysfWHgbvzOIi\n6JscriydqT4FYjSnrOXOD8zrLIneC57YsBnfrZf5jj95H7dF70jS/Au5JFsOBnTE\n9+PlSZ+VGHFXJLbGSGzo2F80lsDGX9ePNwHGIFmY89HlnTPf5g9p/hIIIZk8zW0t\npUqbfBNNsk60AOv6/rVJiZTNKDVAXRAsZQe8G8nxfzDyuOhC3koqNXGNHHYYUbdh\n7EUJLNnAwpgl28iELQp84fLH7rXxH0QltWIt1/XtPvkliHV23h1b3iRFrR5kIr+s\nZg5UGa+o2ewv33oTAL7Vy/Gxz/sEgH0/0JPAhSBfDCa2X1D9rSEUsyUn4BvUAl8E\noS5Q9MRPAgMBAAECggEAR2O1SG6t0Geg6AhpPyPvjhgSndVRkxSlYAqdqiGKX8En\nJ9T6YRALIDG1a4RlFc77bkmm40Ew5EoMBfz+w+GTKwjZvXkVipdp37KxrrpImqFA\nvw74O6t8pCq8dn+mgs1gurh9fl3XdUfa42lczXMDm5vXU5KuIwLFRClrSfqpE8gm\nPOdOoxpK326i7C6eo0SSI4nRuZJbHWyRAIJOkk9TjgqpjeOq55GOVbNEdZE1lQNA\nKJCkru6kLOCPpjOVW7U2iu0/upJ7byruBx5vwFt2t8IRzviFeyDfeqT61cIcAS7A\nH8IMBfGYdGQjA2rC2eB/ZAZKfG95tOjApNTzq841oQKBgQDmlVdLMdNJoOSxODcT\nFgTs8DwGo9bD+qXrO+ZFqpuX5LJNtoEC05xAH/MiuhqAku4tjuIE/hP1jfTObMzm\nih/PldZukVmIyaGxgQUd6xTAON0Z7zS/B2TLuK4o6cPJxf9Gi/ic+D+nPxCjJWhk\n7Pq5rBeeseWrdql0vMLlOieauQKBgQDQffIEsH95fq7m8j7O+FRjAAWSFkxJFWR2\nLIZIz63yiloSaHpkPwStRVhBthn3XTzkkhc66ZJHJ10b9VgzQWLEuDOesIB80q+c\nZnpKKuHNmTRFgsEq2D/V0DtCZJKTZswBOXEhbNMf/ygtPMVKGUCvFYY6vqAYu4bE\nsqIg4lYzRwKBgHrliftH+Sc7G+jg32nKyKFIgZXAaU1XIGu6J0dmYTuZ5vbImQZa\npuL+pGYT7uAsb8nUZ97lVNoB6ULEdolBgSbw47NWwPPJE+c5rvJ9QzgYlq+l8OUI\nGc8DBcBEp9e5Mg/1tnJjVfncARATdgqkzBV+BbDNfG3g9vyDRxVJ46XxAoGAbEjd\niB37NyjawkwS3wAPJBQA0K0QFe0sbkwVun9SwuOkgGcPGj24uh2IBykDN3yPgc92\njTx+osIJE9pLYuOU3sMk3EijkzEB0GNRJHA9MsFdarTMiuohzXUHMiZ2EmSTlBc3\ncLrKtJWbUlN7zE5tUAIH4z7ae7358vMsTZQAXUUCgYALBBwZkvB1g6RXHiBHkgbk\nBQamHGA2b+Hcwx5f5cpGB86S1dPJ2g00aOEtZN2JwUQqErxIJvHQi49UMbD3RVBF\no1+rOU2kP3ZqHVKG8aAVWrNALd/1vr8/u7JgfOPRk3k4rOFchPUQo/GaQa1vjkHQ\nlFpmPRLGCOQTjo1VUhGu3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "devarshi-raval-722@crypto-parser-479516-b1.iam.gserviceaccount.com",
+  "client_id": "105573823879103360795",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devarshi-raval-722%40crypto-parser-479516-b1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
